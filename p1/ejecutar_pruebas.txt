@@ -1,0 +1,9 @@
+./ecuImg --r 0 --input cells.png --output output
+
+./ecuImg --r 0 --input cells.png --output output --mask cells-mask.png
+
+./ecuImg --r 25 --input cells.png --output output
+
+./ecuImg --r 25 --input cells.png --output output --mask cells-mask.png
+
+./ecuImg --r 0 --input cells.png --output output --b 1
